@@ -17,6 +17,8 @@ Again — this is **for education on automation**, HTTP requests, and how fronte
 
 ---
 
+![Network Tab Example](img/stack.png)
+
 ## 📸 How to Get Your Request Data (Educational)
 
 1️⃣ Open **Stake** in **Google Chrome**.
@@ -43,6 +45,7 @@ cd unlimited\ money\ making\ makin/
 npm i
 node Test-1.js
 ```
+![Network Tab Example](img/terminal.png)
 
 ## ❗ Why You Should NOT Use This for Real Betting
 ✅ Stake detects bot behavior.
