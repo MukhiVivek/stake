@@ -39,7 +39,7 @@ curl 'https://stake.ac/_api/casino/dice/roll' \
 ▶️ How to Run
 
 ```bash
-git clone https://github.com/MukhiVivek/stake.git
+git clone https://github.com/MukhiVivek/stake.git](https://github.com/MukhiVivek/unlimited-moneymaking-stake.git
 cd unlimited\ money\ making\ makin/
 
 npm i
