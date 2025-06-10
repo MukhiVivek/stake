@@ -17,6 +17,28 @@ Again — this is **for education on automation**, HTTP requests, and how fronte
 
 ---
 
+## 1️⃣ Martingale Concept:
+
+Start with a small bet (e.g., 0.01 USDT).
+
+If you lose, double your next bet.
+
+When you eventually win, the win covers all previous losses + gives original profit.
+
+After a win, reset to base bet and repeat.
+
+⚙ Logic Behind This Code (Martingale Strategy)
+
+Example:
+
+| Attempt | Bet Amount (USDT) | Result | Total Profit (USDT) |
+|---------|-------------------|--------|---------------------|
+| 1       | 0.01              | ❌     | -0.01              |
+| 2       | 0.02              | ❌     | -0.03              |
+| 3       | 0.04              | ✅     | +0.01              |
+| 4       | 0.01              | ❌     | 0.00               |
+| 5       | 0.02              | ✅     | +0.02              |
+
 ![Network Tab Example](img/stack.png)
 
 ## 📸 How to Get Your Request Data (Educational)
